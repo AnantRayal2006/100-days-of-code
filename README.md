@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20Completed-4%2F100-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Days%20Completed-5%2F100-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
