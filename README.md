@@ -28,6 +28,7 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
  ┣ 📄 Day2.py
  ┣ 📄 Day3.py
  ┣ 📄 Day4.py
+ ┣ 📄 Day5.py
  ┗ 📄 README.md
 ```
 
@@ -35,13 +36,14 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
 
 ## 📅 Progress Tracker
 
-| Day    | Project       | Description                 | Status |
-| ------ | ------------- | --------------------------- | ------ |
-| Day 1  | Print Program | Basic print statements      | ✅      |
-| Day 2  | Input Program | Taking user input           | ✅      |
-| Day 3  | Age Finder    | Calculate age using input   | ✅      |
-| Day 4  | Calculator    | Basic arithmetic operations | ✅      |
-| Day 5+ | Coming Soon   | More projects ahead         | ⏳      |
+| Day    | Project            | Description                 | Status  |
+| ------ | ------------------ | --------------------------- | ------- |
+| Day 1  | Print Program      | Basic print statements      | ✅      |
+| Day 2  | Input Program      | Taking user input           | ✅      |
+| Day 3  | Age Finder         | Calculate age using input   | ✅      |
+| Day 4  | Calculator         | Basic arithmetic operations | ✅      |
+| Day 5  | Word Replacement   | More projects ahead         | ✅      |
+| Day 6+ | Coming Soon        | More projects ahead         | ⏳      |
 
 ---
 
@@ -57,7 +59,7 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
 ## 📈 Progress Bar
 
 ```
-[████░░░░░░░░░░░░░░░░] 4%
+[█████░░░░░░░░░░░░░░░] 5%
 ```
 
 ---
