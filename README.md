@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20Completed-5%2F100-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Days%20Completed-6%2F100-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 </p>
@@ -29,6 +29,7 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
  ┣ 📄 Day3.py
  ┣ 📄 Day4.py
  ┣ 📄 Day5.py
+ ┣ 📄 Day6.py
  ┗ 📄 README.md
 ```
 
@@ -36,14 +37,15 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
 
 ## 📅 Progress Tracker
 
-| Day    | Project            | Description                 | Status  |
-| ------ | ------------------ | --------------------------- | ------- |
-| Day 1  | Print Program      | Basic print statements      | ✅      |
-| Day 2  | Input Program      | Taking user input           | ✅      |
-| Day 3  | Age Finder         | Calculate age using input   | ✅      |
-| Day 4  | Calculator         | Basic arithmetic operations | ✅      |
-| Day 5  | Word Replacement   | More projects ahead         | ✅      |
-| Day 6+ | Coming Soon        | More projects ahead         | ⏳      |
+| Day    | Project            | Description                    | Status  |
+| ------ | ------------------ | ------------------------------ | --------|
+| Day 1  | Print Program      | Basic print statements         | ✅      |
+| Day 2  | Input Program      | Taking user input              | ✅      |
+| Day 3  | Age Finder         | Calculate age using input      | ✅      |
+| Day 4  | Calculator         | Basic arithmetic operations    | ✅      |
+| Day 5  | Word Replacement   | Helps in searching &replaceing | ✅      |
+| Day 6  | Advance Calculator | Mathematic operation           | ✅      |
+| Day 7+ | Coming Soon        | More projects ahead            | ⏳      |
 
 ---
 
@@ -59,7 +61,7 @@ I’m taking the **#100DaysOfCode challenge** to build consistency and improve m
 ## 📈 Progress Bar
 
 ```
-[█████░░░░░░░░░░░░░░░] 5%
+[██████░░░░░░░░░░░░░░] 6%
 ```
 
 ---
